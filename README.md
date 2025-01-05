@@ -14,4 +14,4 @@ pip install opencv-python opencv-python-headless deepface
 pip install tensorflow tf-keras
 
 # Ako nemate NVIDIA GPU za optimizirano pokretanje instalirati i tensorflow za CPU
-pip install tensorflow-cpu
+pip install tensorflow-cpu# Spol-dob-i-emocija
