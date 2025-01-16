@@ -15,7 +15,7 @@ source env/bin/activate  # Na Windowsu: env\Scripts\activate
 pip install --upgrade pip
 
 # Potrebni paketi
-pip install opencv-python opencv-python-headless deepface
+pip install opencv-python opencv-python-headless deepface mediapipe onnxruntime
 
 # Ako se ne instalira s deepface-om treba i tensorflow
 pip install tensorflow tf-keras
